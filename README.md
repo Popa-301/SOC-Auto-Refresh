@@ -2,7 +2,7 @@
 
 A cybersecurity SOC-themed Google Chrome extension (Manifest V3) that provides automated page reloads, a two-digit toolbar badge countdown, exact-string keyword detection, in-page HUD alerts, and non-stacking Windows desktop notifications.
 
-Repository: [https://github.com/zohan205/SOC-Page-Refresher](https://github.com/zohan205/SOC-Page-Refresher)
+Repository: [https://github.com/Popa-301/SOC-Auto-Refresh](https://github.com/Popa-301/SOC-Auto-Refresh)
 
 ---
 
@@ -31,7 +31,7 @@ Repository: [https://github.com/zohan205/SOC-Page-Refresher](https://github.com/
 ## Step 1: Download the Extension
 
 ### Option A: Download as ZIP (Recommended)
-1. Go to the repository: [https://github.com/zohan205/SOC-Page-Refresher](https://github.com/zohan205/SOC-Page-Refresher).
+1. Go to the repository: [https://github.com/Popa-301/SOC-Auto-Refresh](https://github.com/Popa-301/SOC-Auto-Refresh).
 2. Click the green **Code** button near the top right.
 3. Click **Download ZIP**.
 4. Once downloaded, extract the ZIP file:
@@ -41,7 +41,7 @@ Repository: [https://github.com/zohan205/SOC-Page-Refresher](https://github.com/
 ### Option B: Clone with Git
 If you have Git installed, open your terminal or command prompt:
 ```bash
-git clone https://github.com/zohan205/SOC-Page-Refresher.git
+git clone https://github.com/Popa-301/SOC-Auto-Refresh
 cd SOC-Page-Refresher
 ```
 
