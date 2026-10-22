@@ -42,7 +42,7 @@ Repository: [https://github.com/Popa-301/SOC-Auto-Refresh](https://github.com/Po
 If you have Git installed, open your terminal or command prompt:
 ```bash
 git clone https://github.com/Popa-301/SOC-Auto-Refresh
-cd SOC-Page-Refresher
+cd SOC-Auto-Refresh
 ```
 
 ---
@@ -56,7 +56,7 @@ cd SOC-Page-Refresher
    ```
 3. Look at the top-right corner and toggle **Developer mode** to **ON**.
 4. In the top-left corner, click the **Load unpacked** button.
-5. In the file picker, select the project folder containing `manifest.json` (e.g., `SOC-Page-Refresher` or `SOC-Page-Refresher-main`).
+5. In the file picker, select the project folder containing `manifest.json` (e.g., `SOC-Auto-Refresh` or `SOC-Auto-Refresh-main`).
 6. Click **Select Folder**.
 7. The extension card titled **SOC Monitor** will now appear in your extensions list.
 
